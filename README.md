@@ -37,11 +37,11 @@ This is an AI-powered learning assistant designed to help users explore and unde
     ```
 
 5. Running the App
-To launch the app, run:
-
-```bash
-streamlit run app.py
-```
+    To launch the app, run:
+    
+    ```bash
+    streamlit run app.py
+    ```
 
 The app will be available at http://localhost:8501.
 
