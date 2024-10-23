@@ -43,7 +43,7 @@ This is an AI-powered learning assistant designed to help users explore and unde
     streamlit run app.py
     ```
 
-The app will be available at http://localhost:8501.
+    The app will be available at http://localhost:8501.
 
 ## Usage
 1. Type any question related to data structures in the input field.
